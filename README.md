@@ -93,21 +93,7 @@ data-driven and machine learning solutions.
 
 ---
 
-## `04 / GITHUB`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Elyori&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyori&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888" />
-
-</div>
-
-<br>
-
----
-
-## `05 / CONTACT`
+## `04 / CONTACT`
 
 ```txt
 github    : @Elyori
